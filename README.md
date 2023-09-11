@@ -9,4 +9,4 @@
 ## Pessoas envolvidas
 ### Essa avaliação foi realizada de maneira individual, orientada pelo professor Lucas Ximenes, instrutor da Ada Tech, que leciona a disciplina de Banco de Dados I
 
-![Alt text](logo_ada.png)
+![Alt text](imagens/logo_ada.png)
