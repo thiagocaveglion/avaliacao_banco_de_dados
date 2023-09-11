@@ -2,6 +2,8 @@
 ### Avaliação do módulo de Banco de Dados I da turma 1007 do programa Santanders Coders 2023 da Ada Tech
 ## Método
 ### O método utilizado para a realização da prova foi com base num jupyter notebook, em adição com imagens que respondem determinadas questões
+## Linguagens e SGBDs
+### Utilizou-se de python, SQL, mySQL e postgreSQL nessa avaliação
 ## Pacotes
 ### Utilizou-se do pacote mysql-connector num ambiente conda
 ## Pessoas envolvidas
