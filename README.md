@@ -4,7 +4,7 @@
 #### O método utilizado para a realização da prova foi com base num jupyter notebook, em adição com imagens que respondem determinadas questões
 ## Pacotes
 #### Utilizou-se do pacote mysql-connector num ambiente conda
-## Método avaliativo
-#### Essa avaliação foi realizada de maneira individual
+## Pessoas envolvidas
+#### Essa avaliação foi realizada de maneira individual, orientada pelo professor Lucas Ximenes, instrutor da Ada Tech que leciona a disciplina de Banco de Dados I
 
 ![Alt text](logo_ada.png)
