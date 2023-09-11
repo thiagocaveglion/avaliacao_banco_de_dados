@@ -6,3 +6,5 @@
 #### Utilizou-se do pacote mysql-connector num ambiente conda
 ## Método avaliativo
 #### Essa avaliação foi realizada de maneira individual
+
+![Alt text](logo_ada.png)
